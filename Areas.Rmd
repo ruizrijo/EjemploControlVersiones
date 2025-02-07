@@ -31,3 +31,10 @@ Altura = 5
 AreaTriangulo = Base * Altura / 2
 ```
 
+# Área del rectangulo
+
+```{r}
+Lado1 = 3
+Lado2 = 4
+AreaRectangulo = Lado1 * Lado2
+```
