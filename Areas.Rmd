@@ -38,3 +38,12 @@ Lado1 = 3
 Lado2 = 4
 AreaRectangulo = Lado1 * Lado2
 ```
+
+# Área del trapecio
+
+```{r}
+b = 5
+B = 3
+H = 2
+AreaTrapecio = (b + B) * H / 2
+```
