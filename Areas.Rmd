@@ -22,3 +22,12 @@ Area = pi*r*2
 Lado = 3
 AreaCuadrado = Lado^2
 ```
+
+# Área del triangulo
+
+```{r}
+Base = 3
+Altura = 5
+AreaTriangulo = Base * Altura / 2
+```
+
